@@ -85,4 +85,4 @@ JIRA, Service Now, Rally, Salesforce, Putty, Unix Script, Shell Script
 
 **Contact Me**
 
-Feel free to reach out to me via balakumaranmaniarasu@gmail.com for any inquiries or collaboration opportunities.
+https://www.linkedin.com/in/balakumaran-maniarasu-7b30bb69/
