@@ -6,6 +6,7 @@ ecosystems from conceptualization to implementation. Proven track record to lead
 effective data solutions involving data warehousing, data lakes, and data lifecycle management techniques for 
 optimized storage and retrieval.  
 
+
 **Key Skills**
 
 **Data Engineering**: Proficient in designing and implementing data pipelines using tools such as Apache Kafka, Airflow, and Snowflake.
@@ -17,6 +18,7 @@ optimized storage and retrieval.
 **Securit**y: Proactively monitor and address vulnerabilities in various repositories to prevent exploitation.
 
 **Database Managemen**t: Expertise in developing complex SQL queries, stored procedures, and tasks for various source systems.
+
 
 
 **Projects**
@@ -41,9 +43,11 @@ Led the development of a data lake to store and manage large volumes of unstruct
 Defined data standards and guidelines to ensure consistent data modeling and data management practices.
 
 
+
 **Certification**
 
 Oracle Certified Professional, Java SE6 Programmer
+
 
 **Technical Skills**
 
@@ -76,6 +80,7 @@ Python, Java
 
 Other Tools
 JIRA, Service Now, Rally, Salesforce, Putty, Unix Script, Shell Script
+
 
 
 **Contact Me**
