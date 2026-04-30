@@ -1,11 +1,12 @@
 Hi, I'm Balakumaran! 👋
 
-Data Architect & Engineering Lead | AI-Powered Pipelines | Cloud & ETL Expert
+**Data Architect & Engineering Lead | AI-Powered Pipelines | Cloud & ETL Expert**
 
 Senior Data Architect with 12+ years designing enterprise-grade data platforms across AWS, GCP, and Azure. I specialize in building scalable, AI-augmented data pipelines using Snowflake, Kafka, DBT, and Airflow — delivering measurable results: 25% faster ingestion, 30% faster query processing, and 20% fewer data errors.
 📍 California, USA  |  📧 balakumaranmaniarasu@gmail.com  |  🔗 [LinkedIn](https://www.linkedin.com/in/balakumaran-maniarasu-7b30bb69/)
 
 **Key Projects**
+
 **LLM-Powered SQL Assistant & Data Documentation Engine**
 OpenAI APIs Snowflake Python LangChain DBT
 Integrated LLM-based tooling into enterprise data platforms to automatically generate SQL documentation, data dictionaries, pipeline summaries, and data lineage reports. Used prompt engineering and OpenAI APIs to create a conversational SQL assistant that lets business analysts query Snowflake in plain English — reducing analyst dependency on data engineers by 40% and cutting documentation effort by 60%.
