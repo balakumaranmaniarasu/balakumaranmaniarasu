@@ -1,88 +1,37 @@
-Hi, I'm Balakumaran!
+Hi, I'm Balakumaran! 👋
+Data Architect & Engineering Lead | AI-Powered Pipelines | Cloud & ETL Expert
+Senior Data Architect with 12+ years designing enterprise-grade data platforms across AWS, GCP, and Azure. I specialize in building scalable, AI-augmented data pipelines using Snowflake, Kafka, DBT, and Airflow — delivering measurable results: 25% faster ingestion, 30% faster query processing, and 20% fewer data errors.
+📍 California, USA  |  📧 balakumaranmaniarasu@gmail.com  |  🔗 [LinkedIn](https://www.linkedin.com/in/balakumaran-maniarasu-7b30bb69/)
 
-Data-Driven Strategist with over a decade of prowess in Data Engineering, Data Analytics and ETL. Adept at 
-designing and implementing robust data solutions. Specialized in architecting scalable and efficient data 
-ecosystems from conceptualization to implementation. Proven track record to lead the deployment of cost
-effective data solutions involving data warehousing, data lakes, and data lifecycle management techniques for 
-optimized storage and retrieval.  
+Key Projects
+LLM-Powered SQL Assistant & Data Documentation Engine
+OpenAI APIs Snowflake Python LangChain DBT
+Integrated LLM-based tooling into enterprise data platforms to automatically generate SQL documentation, data dictionaries, pipeline summaries, and data lineage reports. Used prompt engineering and OpenAI APIs to create a conversational SQL assistant that lets business analysts query Snowflake in plain English — reducing analyst dependency on data engineers by 40% and cutting documentation effort by 60%.
 
+Real-Time Streaming Analytics Pipeline
+Apache Kafka Snowflake DBT Apache Airflow Python Azure
+Designed and implemented an end-to-end real-time streaming pipeline integrating Kafka with Snowflake, enabling live data ingestion, transformation, and analytics with sub-second latency. Built DBT models on top of streaming data to serve real-time dashboards for business stakeholders. Handled 5TB+ monthly data volume across 100+ tables from 3 enterprise source systems.
 
-**Key Skills**
+Enterprise Data Pipeline Automation
+Kafka Azure Blob Storage Snowflake Airflow DBT SAP
+Built and maintained 4 robust end-to-end data pipelines automating ingestion, transformation, and loading (ETL) across 100+ tables and 3 source systems. Created comprehensive source-to-target mapping documents with transformation logic to ensure data accuracy, consistency, and auditability at scale. Implemented AI-assisted anomaly detection to proactively flag data quality issues.
 
-**Data Engineering**: Proficient in designing and implementing data pipelines using tools such as Apache Kafka, Airflow, and Snowflake.
+CI/CD for Data Pipelines
+GitHub Actions ArgoCD Jenkins Docker Snowflake DBT
+Implemented a full CI/CD framework for data pipeline deployment using ArgoCD, GitHub Actions, and Jenkins. Automated testing, validation, and deployment of DBT models and Snowflake pipeline changes — reducing release cycle time significantly and eliminating manual deployment errors. Established branching strategies, code review workflows, and rollback procedures for production-safe deployments.
 
-**ETL Processes**: Experienced in creating and maintaining ETL processes for seamless data integration using tools like Azure Blob storage and Informatica PowerCenter.
+Airflow DAG Orchestration Framework
+Apache Airflow Python Snowflake SQL
+Designed a reusable, modular Airflow DAG framework using Python to orchestrate complex multi-step data workflows. Built-in retry logic, alerting, SLA monitoring, and dependency management reduced pipeline failure rates and improved operational reliability across all data engineering teams.
 
-**Team Leadership**: Skilled in leading onshore development teams and coordinating with multiple teams across different locations to ensure project success.
+Cloud Data Warehouse Architecture & Migration
+Snowflake GCP AWS Azure Informatica SQL
+Designed and implemented a scalable cloud data warehouse architecture resulting in a 30% reduction in query processing time. Developed a comprehensive data quality and governance framework. Successfully migrated legacy on-premise data to a modern cloud platform — improving accessibility and reducing operational costs significantly.
 
-**Securit**y: Proactively monitor and address vulnerabilities in various repositories to prevent exploitation.
+Enterprise Data Lake Implementation
+Hadoop HDFS Amazon S3 GCP Python Airflow
+Led design and implementation of an enterprise data lake to store and manage large volumes of unstructured and semi-structured data for advanced analytics. Defined data standards, governance guidelines, and lifecycle management practices. Enabled self-serve analytics for business units, reducing dependency on centralized data teams.
 
-**Database Managemen**t: Expertise in developing complex SQL queries, stored procedures, and tasks for various source systems.
-
-
-
-**Projects**
-
-**Data Pipeline Automation**
-Built and maintained robust data pipelines using Kafka, Azure Blob storage, Snowflake, and Airflow to automate data ingestion, transformation, and loading processes.
-Created mapping documents containing source-to-target transformation logic and column information to ensure data accuracy and consistency.
-
-**Airflow DAG Development**
-Developed Airflow DAGs using Python scripts to orchestrate complex data workflows, ensuring timely and efficient data processing.
-
-**Team Coordination**
-Led onshore development teams and effectively coordinated with multiple teams across different locations to ensure smooth project execution and delivery.
-
-**Data Warehouse Architecture**
-Designed and implemented a scalable data warehouse architecture to support the company's growing data needs, resulting in a 20% reduction in query processing time for analysts.
-Developed a comprehensive data warehouse framework to ensure data quality, consistency, and security across the organization.
-Migrated legacy data to a modern cloud-based platform, improving data accessibility and reducing operational costs.
-
-**Data Lake Implementation**
-Led the development of a data lake to store and manage large volumes of unstructured and semi-structured data for advanced analytics.
-Defined data standards and guidelines to ensure consistent data modeling and data management practices.
-
-
-
-**Certification**
-
-Oracle Certified Professional, Java SE6 Programmer
-
-
-**Technical Skills**
-
-BI/ETL Tools
-Snowflake, Informatica PowerCenter, Talend, Google Cloud Data Ingestion, Apache Kafka
-
-Data Storage
-Amazon S3, Hadoop Distributed File System
-
-Data Processing & Transformation
-Airflow
-
-Data Analysis & Visualization
-SQL, Power BI
-
-Data Modeling
-ER Programming Tools
-
-Cloud-based Platforms
-GCP, AWS, Azure, Snowflake
-
-Database
-Snowflake, SQL, DB2, Oracle, Amazon Redshift, Hive, BigQuery
-
-CICD
-Jenkins, GitHub
-
-Languages
-Python, Java
-
-Other Tools
-JIRA, Service Now, Rally, Salesforce, Putty, Unix Script, Shell Script
-
-
-
-**Contact Me**
-
-https://www.linkedin.com/in/balakumaran-maniarasu-7b30bb69/
+Pipeline Security & Vulnerability Management
+Prisma Qualys Security Console GitHub Grafana Splunk
+Proactively monitored vulnerabilities across data repositories using Security Console, Prisma, and Qualys. Implemented security scanning into CI/CD pipelines to catch issues before production. Monitored and visualized system performance metrics with Grafana and Splunk dashboards — maintaining 99.9% pipeline uptime.
